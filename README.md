@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 
-Following the Hellow World guide from GitHub.
+Following the Hello World guide from GitHub.
